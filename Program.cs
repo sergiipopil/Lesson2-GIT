@@ -7,4 +7,3 @@ global::System.Console.WriteLine();
 Console.WriteLine($"2+3={sum}");
 Console.WriteLine($"12-3={sub}");
 global::System.Console.WriteLine();
-global::System.Console.WriteLine();
