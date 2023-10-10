@@ -7,3 +7,4 @@ Console.WriteLine("Start program");
 Console.WriteLine("Calculation Example:\n");
 Console.WriteLine($"2+3={sum}");
 Console.WriteLine($"12-3={sub}");
+Console.WriteLine();
